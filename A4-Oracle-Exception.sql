@@ -57,4 +57,5 @@ SELECT * FROM Fine;
         -- 4. Datatypes are [int,date,varchar(255)]
         -- 5. While inserting the dates use format to_date('2022-12-12','YYYY-MM-DD')
         -- 6. After end; statement use a forward slash (/) as you are excecuting the single line query and not declaring any block *(acc. to me)
+        -- 7. 'SET SERVEROUTPUT ON' to output statements.
 
